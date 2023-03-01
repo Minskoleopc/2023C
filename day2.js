@@ -114,6 +114,42 @@ while(h5 >= 3){
 
 // while  with break 
 
+let h6 = 1
+while(h6 <= 5){
+    if(h6 == 2){
+        break
+    }
+    console.log(h6) //1
+    h6 = h6 + 1 // 2
+}
+
+let h7 = 1
+while(h7 <= 5){
+    console.log(h7)  // 1 // 2 // 3
+    if(h7 == 3){
+        break
+    }
+    h7 = h7 + 1  // 2 // 3
+}
+
+
+let h8 = 1
+while(h8 <= 5){
+    if(h8 == 3){
+        h8 ++ // 4
+        continue
+    }
+    console.log(h8) // 1 // 2 // 4 //5
+    h8 ++ //2 // 3 // 5 // 6
+} 
+
+
+
+
+
+
+
+
 
 // while with continue
 
