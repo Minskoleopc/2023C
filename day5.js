@@ -132,7 +132,6 @@ let total = 0
 for(let i = 0 ; i < marks.length ; i++){
    // console.log(i)
    //console.log(marks[i])
-
     total = total + marks[i]
 
    //            0   +    11     =======> 11

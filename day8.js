@@ -88,8 +88,6 @@ console.log(q15)
 
 
 // method chaining 
-
-
 let fruit5 = "chikoo"
 let q16 = fruit5.toUpperCase().toLowerCase().length 
 console.log(q16)

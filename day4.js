@@ -1,9 +1,6 @@
-
 //              0        1     2       3       4
 let names = ["chinmay","ram","sham","satish","ganesh"]
 console.log(names[0])
-
-
 for(let i = 0 ; i < names.length  ; i++){
     //console.log(i)
     console.log(names[i])
@@ -71,3 +68,11 @@ console.log(q6)
 let country = ["india","pakistan","srilanka"]
 let q7  = country.indexOf("{akistan")
 console.log(q7)
+
+// push()---- add the element at last return new length
+// unshift --- add the elements at first return new length
+// pop() - removes the last element and return same 
+// shift() - removes the first element and returns same 
+// reverse() - reverse the array and return same 
+// includes() - search for element if found return true
+// indexOf() - return the index of element if found else retune -1

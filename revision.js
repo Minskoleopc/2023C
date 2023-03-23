@@ -227,7 +227,6 @@ let city = "nagpdsdur"
 //         console.log('incorrect city name')
 // }
 
-
 switch(city){
     case 'pune':
     case 'nagpur':
