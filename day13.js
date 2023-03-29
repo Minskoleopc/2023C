@@ -102,5 +102,4 @@ students.forEach(function(el){
     //console.log(el)
     el.country = "india"
 })
-
 console.log(students)
