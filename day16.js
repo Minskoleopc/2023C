@@ -80,7 +80,6 @@ for(let [key,value] of roles.entries()){
 for(let k of roles.keys()){
     console.log(k)
 }
-
 for(let v of roles.values()){
     console.log(v)
 }
@@ -96,6 +95,10 @@ console.log(q1234)
 roles.set(5,"L1 support")
 console.log(roles)
 console.log(roles.size)
+
+
+
+
 
 
 
