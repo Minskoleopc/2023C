@@ -55,8 +55,6 @@ console.log(nm)
 
 
 
-
-
 // Program 2
 
 {/* <h1>Chinmay</h1>
