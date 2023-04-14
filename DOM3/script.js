@@ -12,7 +12,7 @@ buttonA.addEventListener('click',function(){
     let newL = document.createElement('li') // <li></li>
     newL.textContent = ftext  // <li>papaya</li>
     ulList.appendChild(newL)
-    inputText.value = ""
+    inputText.value =  ""
 
 })
 
