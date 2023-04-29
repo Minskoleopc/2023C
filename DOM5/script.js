@@ -37,8 +37,8 @@ ulList.addEventListener('click', function (e) {
             let li = e.target.parentElement
             let ul = li.parentElement
             let prev = li.previousElementSibling
-            if(prev){
-                ul.insertBefore(li,prev)
+            if (prev) {
+                ul.insertBefore(li, prev)
             }
 
         }
@@ -47,10 +47,9 @@ ulList.addEventListener('click', function (e) {
             let li = e.target.parentElement
             let ul = li.parentElement
             let next = li.nextElementSibling
-            if(next){
-                ul.insertBefore(next,li)
+            if (next) {
+                ul.insertBefore(next, li)
             }
-
 
         }
 
