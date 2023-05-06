@@ -110,7 +110,6 @@ amolE.setLn = "Rao"
 amolE.setAge = 34
 
 console.log(amolE)
-
 console.log(amolE.setAge)
 console.log(amolE.setFn)
 console.log(amolE.setAge)
