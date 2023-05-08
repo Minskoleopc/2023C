@@ -72,7 +72,6 @@ class Teacher extends Student {
 
 
 let chinmayT = new Teacher("chinmay","deshpande")
-
 console.log(chinmayT.firstName)
 console.log(chinmayT.lastName)
 console.log(chinmayT.salary)
