@@ -36,8 +36,6 @@ pro2.then(function (arr) {
 })
 
 // program 3
-
-
 let pro3 = new Promise(function (resolve, reject) {
     let firstName = "chy"
     if (firstName.length > 5) {
