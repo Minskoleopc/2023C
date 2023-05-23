@@ -98,10 +98,8 @@ ch2.display()
 
 // object create
 
-
 // let amolC = Object.create({})
 // console.log(amolC)
-
 
 let obj = {
     init:function(fn,ln,rollNo){

@@ -25,7 +25,6 @@ class Daughter extends Father{
         super(fn,ln)
         this.dname = dn
     }
-
     displayDName(){
         console.log(this.dname + this.displayLastName())
     }

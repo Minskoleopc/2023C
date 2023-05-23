@@ -113,9 +113,7 @@ class PersonD {
         return this.lastName
     }
 
-
 }
-
 let amolT = new PersonD()
 console.log(amolT)
 
